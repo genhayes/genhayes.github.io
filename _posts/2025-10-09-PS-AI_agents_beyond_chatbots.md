@@ -1,5 +1,5 @@
 ## Paper Spotlight: Beyond DNS – Unlocking the Internet of AI Agents
-**Tags:** [AI, Machine Learning, Agents, Research, Paper Spotlight]\
+**Tags:** [AI, Machine Learning, Agents, Research, Paper Spotlight]
 
 **Description:** A summary and reflection on *Beyond DNS – Unlocking the Internet of AI Agents via the NANDA Index and Verified AgentFacts' by Raskar, Chari, Zinky, et al.*
 
