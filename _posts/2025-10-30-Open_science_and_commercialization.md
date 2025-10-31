@@ -96,10 +96,8 @@ The question isn’t whether we can bridge the gap, but how quickly we can build
 What are your thoughts on balancing open science and commercialization? Share your perspective in the comments!
 
 
-// ...existing code...
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
     {% include navlinks.html %}
     {% include comments.html %}
   </div>
-// ...existing code...
